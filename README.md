@@ -1,49 +1,44 @@
 # Random Quote Generator
 
-A simple web application that generates random quotes from a predefined list when a button is clicked. 
+A simple web app that displays random quotes from a predefined list.
 
 ## Features
 
-- Displays a random quote from a predefined list.
-- Includes author names for each quote.
-- User-friendly interface with a button to fetch a new quote.
+* Displays a random quote from a predefined list
+* Includes author names for each quote
+* User-friendly interface with a button to fetch a new quote
 
-## Technologies Used
+## Tech Stack
 
-- **HTML**: For structuring the web page.
-- **CSS**: For styling the page.
-- **JavaScript**: For functionality and interaction.
+* HTML
+* CSS
+* JavaScript
 
 ## Getting Started
 
-To run the Random Quote Generator locally, follow these steps:
+1. Clone the repo: `git clone https://github.com/Aditynaidu09/random-quote-generator.git`
+2. Navigate to the project directory: `cd random-quote-generator`
+3. Open `index.html` in your web browser
 
-1. **Clone the repository**:
-  ```bash
-  git clone [https://github.com/your-username/random-quote-generator.git](https://github.com/your-username/random-quote-generator.git)   
+## Usage
 
-Use code with caution.
+1. Load the page
+2. Click the "New Quote" button to generate a new random quote
 
-##Navigate to the project directory:
-Bash
-cd random-quote-generator
-Use code with caution.
+## Files
 
-3. Open index.html in your web browser:
-Simply open the index.html file in any modern web browser to see the application in action.   
+* `index.html`: Web page structure
+* `styles.css`: Styling for the page
+* `script.js`: JavaScript code for displaying quotes
 
-Usage
-Load the page: The page will display an initial message: "Click the button to get a random quote!"
-Click the button: Click the "New Quote" button to generate and display a new random quote.
-Files
-index.html: Contains the structure of the web page.
-styles.css: Contains the styling for the page.
-script.js: Contains the JavaScript code for displaying quotes.
-Contributing
-If you want to contribute to this project, feel free to open an issue or submit a pull request with improvements or fixes.
+## Contributing
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.   
+Open an issue or submit a pull request with improvements or fixes.
 
-Contact
-For any questions or feedback, you can reach me at your-email@example.com
+## License
+
+MIT License - see [LICENSE](LICENSE) for details.
+
+## Contact
+
+[Your Email](mailto:Adityanaidu3636@example.com)
